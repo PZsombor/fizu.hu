@@ -1,0 +1,27 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: unset;
+    margin: 0;
+}
+
+.menu{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.tartalom{
+    width: 100%; /* dísznek jó, ugyan úgy szar a szélesség */
+    margin: 0;
+}
+
+h1::first-letter {
+    font-size: 130%;
+  }
+
+.kepek .row .col img{
+    width: 33%;
+    width: 100px;
+    height: 100px;
+    margin: 20px 90px;
+}
